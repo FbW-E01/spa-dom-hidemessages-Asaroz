@@ -1,6 +1,4 @@
 let buttonContainer = document.querySelector("#container")
-
-
 buttonContainer.addEventListener("click",handleClick)
 
 function handleClick(e){
